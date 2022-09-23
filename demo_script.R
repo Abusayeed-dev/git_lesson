@@ -1,8 +1,7 @@
 # Headline
 
-x <- rnorm(500)
-y <- rnorm(500)
 
 # Important feature
-# Crazy stuff
+
+# An alternative way of forward
 # New feature - adding something
